@@ -1,4 +1,4 @@
-<h1 align="center"><img src="PORTADA-GIT.gif" width="920" height="400"/></h1>
+<h1 align="center"><img src="PORTADA-GIT.gif" width="600" height="400"/></h1>
 <h3 align="center">Un apasionado Desarrollador FullStack Junior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
@@ -11,8 +11,8 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/gerardo-serrano-4b5aa4215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerardo-serrano-4b5aa4215" height="30" width="40" /></a>
-<a href="https://fb.com/rihurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rihurtado" height="30" width="40" /></a>
-<a href="https://instagram.com/kao_hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kao_hurtado" height="30" width="40" /></a>
+<a href="https://www.facebook.com/gerardo.serranosoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rihurtado" height="30" width="40" /></a>
+<a href="www.instagram.com/dustm00n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustm00n" height="30" width="40" /></a>
 
 </p>
 
