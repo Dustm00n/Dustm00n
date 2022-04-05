@@ -1,4 +1,4 @@
-<h1 align="center"><img src="PORTADA-GIT.gif" width="600" height="400"/></h1>
+<h1 align="center"><img src="PORTADA-GIT.gif" width="920" height="350"/></h1>
 <h3 align="center">Un apasionado Desarrollador FullStack Junior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
