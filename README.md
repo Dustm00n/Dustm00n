@@ -1,24 +1,117 @@
-<h1 align="center"><img src="PORTADA-GIT.gif" width="920" height="350"/></h1>
-<h3 align="center">🐱‍🏍🐱‍💻🐱‍👓🐱‍🚀🐱‍🐉</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
+# Hi, I'm Gerardo Serrano 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dustm00n" alt="Dustm00n" /></a> </p>
+### DevOps Engineer
 
-- 📫 Correo de contacto **Gerardoserranosoto@gmail.com**
+**Building, automating and operating reliable infrastructure.**
 
-<h3 align="left">Mis redes sociales</h3>
+Linux · Docker · Kubernetes · CI/CD · Automation · Observability
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Serrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-serrano-4b5aa4215)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a DevOps Engineer with a background in **Software Engineering and Platform Engineering**, focused on infrastructure, automation, containers and reliable application delivery.
+
+My experience includes managing Linux and Windows environments, virtualization with Hyper-V, containerized workloads with Docker, CI/CD pipelines with GitLab, monitoring, backups and production troubleshooting.
+
+I enjoy understanding the full lifecycle of a system — from application code to deployment, infrastructure and operations.
+
+- 🐧 Working with **Linux**, Docker and infrastructure services
+- 🐳 Containerizing and operating applications with **Docker & Docker Compose**
+- ☸️ Growing deeper into **Kubernetes** and cloud-native operations
+- 🔁 Building and maintaining **CI/CD** workflows
+- 📊 Interested in **observability, reliability and automation**
+- 🎓 Currently studying **Information Technology Engineering**
+- 📚 Continuously specializing in DevOps through hands-on labs and the **KodeKloud DevOps Learning Path**
+
+---
+
+## 🛠️ DevOps & Infrastructure
+
 <p align="left">
-
-<a href="https://www.linkedin.com/in/gerardo-serrano-4b5aa4215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerardo-serrano-4b5aa4215" height="30" width="40" /></a>
-<a href="https://www.facebook.com/gerardo.serranosoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rihurtado" height="30" width="40" /></a>
-<a href="www.instagram.com/dustm00n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustm00n" height="30" width="40" /></a>
-
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,gitlab,nginx,bash,azure,grafana,prometheus,mysql" alt="DevOps and infrastructure technologies" />
 </p>
 
-<h3 align="left">Lenguajes utilizadas</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+**Core:** Linux · Docker · Docker Compose · Kubernetes · Git · GitLab CI/CD
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dustm00n&show_icons=true&locale=en&layout=compact" alt="Dustm00n" /></p>
+**Infrastructure:** Hyper-V · Windows Server · Nginx · Azure · Veeam
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dustm00n&show_icons=true&locale=en" alt="Dustm00n" /></p>
+**Observability:** PRTG · Grafana · Prometheus
+
+**Development background:** Python · PHP/Laravel · Django · REST APIs · MySQL
+
+---
+
+## 🚀 Current Focus
+
+| Area | Focus |
+|---|---|
+| 🐧 Linux Administration | Systems, services and troubleshooting |
+| 🐳 Containers | Docker & Docker Compose |
+| 🔁 CI/CD | Pipelines and deployment automation |
+| ☸️ Kubernetes | Orchestration and cloud-native workloads |
+| ☁️ Cloud & IaC | Cloud infrastructure and automation |
+| 📊 Observability | Monitoring, metrics and reliability |
+
+My current goal is to deepen my specialization in **DevOps Engineering**, particularly Kubernetes, infrastructure automation, cloud platforms, CI/CD and observability.
+
+---
+
+## 🧪 Projects & Labs
+
+### 🧾 Nómade POS
+
+A real-world point-of-sale system operated on local infrastructure for event environments. The platform combines a Laravel application with containerized services and local hardware integration.
+
+**Stack:** `Linux` · `Docker Compose` · `Nginx` · `MariaDB` · `Laravel` · `CUPS`
+
+> Production-oriented project involving deployment, persistent storage, thermal printing, local networking and infrastructure troubleshooting.
+
+### 🏠 Homelab
+
+My personal infrastructure laboratory for experimenting with Linux, containers, Kubernetes, monitoring, automation and self-hosted services.
+
+**Focus:** `Linux` · `Docker` · `Kubernetes` · `Automation` · `Observability`
+
+### 🧪 DevOps Labs
+
+Hands-on labs and documentation created while strengthening my DevOps skills. This area will evolve alongside my KodeKloud DevOps Learning Path.
+
+**Focus:** `Linux` · `Bash` · `Docker` · `Kubernetes` · `CI/CD`
+
+---
+
+## 🧭 Professional Path
+
+**Software Engineering** → **Platform Engineering** → **DevOps Engineering**
+
+`Application Development` → `Infrastructure & Operations` → `Automation & Reliability`
+
+My development background helps me approach infrastructure with an understanding of how applications are built, deployed and operated in production.
+
+---
+
+## 🎯 Currently Working On
+
+- Deepening my Linux administration skills
+- Building stronger Kubernetes foundations
+- Improving CI/CD and deployment automation
+- Expanding my knowledge of cloud infrastructure
+- Building practical DevOps labs and documenting what I learn
+- Developing my personal homelab as a real infrastructure playground
+
+---
+
+<div align="center">
+
+### ⚙️ Automate. Observe. Improve. Repeat.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dustm00n&show_icons=true&hide_title=true&hide_border=true)
+
+</div>
