@@ -112,6 +112,4 @@ My development background helps me approach infrastructure with an understanding
 
 ### ⚙️ Automate. Observe. Improve. Repeat.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dustm00n&show_icons=true&hide_title=true&hide_border=true)
-
 </div>
